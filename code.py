@@ -1,2 +1,3 @@
-name = input()
+name = "fed"
+
 print(f"Hello, {name}")
